@@ -1,0 +1,25 @@
+#mapaContainer {
+    padding: 0px;
+    margin: 0px;
+}
+
+#mapa {
+    transition: ease-in-out 1s;
+    height: 500px;
+    margin: 4.9%;
+    width: 90%;
+}
+
+#iconoMinimizar {
+    position: relative;
+    margin-bottom: -5%;
+    font-size: 400%;
+    height: 50px;
+    width: 50px;
+    left: 5%;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 300%;
+}
